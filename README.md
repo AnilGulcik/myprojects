@@ -1,2 +1,2 @@
 # myprojects
-This repository includes my projects about AWS and DevOps
+This repository contains my projects built and created using Flask on AWS and DevOps bootcamp.
